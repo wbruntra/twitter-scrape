@@ -1,0 +1,24 @@
+{
+  "screenName": "Cristiano",
+  "profileImage": "https://pbs.twimg.com/profile_images/913794143322804225/-yBKQ-3r_400x400.jpg",
+  "name": "Cristiano Ronaldo",
+  "bio": "This Privacy Policy addresses the collection and use of personal information - http://www.cristianoronaldo.com/terms ",
+  "userMentions": [],
+  "hashtags": [],
+  "urls": [
+    {
+      "url": "http://www.cristianoronaldo.com/terms",
+      "indices": [
+        79,
+        116
+      ]
+    }
+  ],
+  "location": "Madrid",
+  "url": "http://www.facebook.com/cristiano",
+  "joinDate": "2010-06-01T00:00:00.000Z",
+  "tweetCount": 3038,
+  "followingCount": 96,
+  "followerCount": 635,
+  "likeCount": 0
+}

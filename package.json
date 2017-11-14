@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "timeline": "scrape-twitter timeline TheRock > timeline.json",
-    "csv":"python tocsv.py TheRock",
+    "csv":"python3 tocsv.py TheRock",
     "profile":"scrape-twitter profile cristiano > profile.json"
   },
   "author": "",

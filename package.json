@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "timeline": "scrape-twitter timeline TheRock > timeline.json",
-    "profile":"scrape-twitter profile cristiano > profile.json",
-    "csv":"python tocsv.py TheRock"
+    "csv":"python tocsv.py TheRock",
+    "profile":"scrape-twitter profile cristiano > profile.json"
   },
   "author": "",
   "license": "ISC",

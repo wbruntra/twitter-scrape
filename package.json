@@ -4,11 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "timeline": "scrape-twitter timeline cristiano > timeline.json",
+    "timeline": "scrape-twitter timeline TheRock > timeline.json",
     "profile":"scrape-twitter profile cristiano > profile.json",
-    "format":"python formatify.py",
-    "csv":"python tocsv.py"
+    "csv":"python tocsv.py TheRock"
   },
   "author": "",
   "license": "ISC",
